@@ -1,0 +1,38 @@
+[컴퓨터, 웹, 코딩, 프로그래밍 - Web1]
+* <p> > <br>
+
+* css로 스타일 < <h> 	//검색 엔진에 잘 보임
+
+* unsplash 이미지 좋음
+
+* Ctrl 누르면서 커서하면 한 번에 태그 가능
+
+* 부모 그룹(ul, ol) - 자식 그룹(li)
+* ul: Unordered List, ol: Ordered List
+
+* title도 검색 엔진에 잘 보임
+
+* 순서: !doctype - html - head(본문, 안에 정보(ex. meta, title)) - body(내용) - /html
+
+* <a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank" title="html5 speicification">Hypertext Markup Language (HTML)</a>
+
+* <img src="coding.jpg" width="100%">
+
+* 댓글 기능 추가(무료, 소스만 붙이면 됨, 웹사이트를 통해야 함, DISQUS)
+* 채팅 기능 추가(무료, 소스만 붙이면 됨, 웹사이트를 통해야 함, tawk.to)
+* 방문자 분석기(구글 analytics)
+
+* 깃허브: 웹 호스팅	//로그인 - 저장소 생성 - 세팅 들어가서 Github Pages 항목에서 main 선택 - 링크+/해당웹피이지.확장자
+
+* free static web hosting: bitballoon, neocities, Amazon S3, Google Cloud Storage, Azure Blob
+
+* 웹 서버 프로그램: Apache, IIS, Nginx
+- how to install apache http server Window 2021
+- how to easy install apache on Window
+- bitnami wamp stack
+
+* http:// : 웹서버를 거쳐서 가져 오는 것
+* file:// : 웹서버 없이 컴퓨터에서 파일을 가져 오는 것
+
+* 같은 네트워크에서 127.0.0.1: 자기 자신
+* 같은 네트워크가 아닐시: 개인 네트워크 IP주소로 접근 가능
